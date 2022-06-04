@@ -18,5 +18,16 @@
             "caes",
             "papagaio"
         ]
+    },
+    {
+        "id": 3,
+        "nomeFantasia": "Pet Penha Shop",
+        "endereco": "Penha de França, SN - São Paulo",
+        "telefone": "sem numero",
+        "atende": [
+            "caes",
+            "gatos",
+            "animais silvestres"
+        ]
     }
 ]
